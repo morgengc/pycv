@@ -16,7 +16,7 @@ This is the repository and reference website for [Learning OpenCV 3 with Python]
 ```
 
 ## Activate & Deactivate
-Run it for activate, run it once for deactivate.
+Run it for activate, run it once more for deactivate.
 ```
 source env.sh
 ```
