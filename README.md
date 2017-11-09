@@ -16,6 +16,7 @@ This is the repository and reference website for [Learning OpenCV 3 with Python]
 ```
 
 ## Activate & Deactivate
+Run first means activate, run it once for deactivate.
 ```
-source env.sh # activate, run it once for deactivate
+source env.sh
 ```
