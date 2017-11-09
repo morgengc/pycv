@@ -1,0 +1,12 @@
+name: pycv
+channels:
+    - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+    - https://conda.anaconda.org/menpo
+    - defaults
+dependencies:
+    - python==2.7.9
+    - numpy
+    - matplotlib
+    - jupyter
+    - opencv3
+    - scipy
