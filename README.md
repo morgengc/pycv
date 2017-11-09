@@ -7,3 +7,15 @@ This is the repository and reference website for [Learning OpenCV 3 with Python]
 * (1) Move the code from the folder of first version into the correct folder
 * (2) Complete the codes of Second Edition, the codes supplied by author is not same with the book. Here try to complete it.
 * (3) Refactor some codes to make it clear
+
+---
+
+## Install
+```
+./create_env.sh
+```
+
+## Activate & Deactivate
+```
+source env.sh # activate, run it once for deactivate
+```
