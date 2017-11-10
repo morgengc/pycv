@@ -11,6 +11,7 @@ This is the repository and reference website for [Learning OpenCV 3 with Python]
 ---
 
 ## Install
+Please install Anaconda/Miniconda first. Then run this script below to install packages.
 ```
 ./create_env.sh
 ```
